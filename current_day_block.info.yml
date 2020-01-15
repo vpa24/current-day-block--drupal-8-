@@ -1,0 +1,4 @@
+name: Current Day Block
+description: list of pages that were modified on a current day
+core: 8.x
+type: module
